@@ -1,6 +1,4 @@
-Hi , I'm Alok!
-
-
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Alok!
 - 🔭 I’m currently working on Flutter Apps to publish 'em to the World.
 - 🌱 currently learning Native App Development through Kotlin.
 - *Download my apps* 
