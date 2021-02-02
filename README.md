@@ -1,4 +1,4 @@
-### Hi ![Hi](https://user-images.githubusercontent.com/59159355/106556226-15ee0000-6545-11eb-9d5e-842b822e1762.gif) there 
+Hi , I'm Alok!
 
 
 - 🔭 I’m currently working on Flutter Apps to publish 'em to the World.
