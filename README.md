@@ -1,4 +1,4 @@
-## Hi <img src="https://user-images.githubusercontent.com/59159355/131294313-b6d57076-2826-4211-9f1b-edf38c40f166.mp4" width="29px">, I'm Alok!
+## Hi <img src="https://user-images.githubusercontent.com/59159355/131294558-52b295a7-de94-42e8-af4f-be0d82cecbe1.gif" width="29px">, I'm Alok!
 - 🔭 I’m currently working on Flutter Apps to publish 'em to the World.
 - 🌱 currently learning
 -  My Portfolio - https://alokkumax.github.io/Portfolio-Website/MyResume/index.html
