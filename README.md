@@ -1,6 +1,6 @@
 ## Hi <img src="https://user-images.githubusercontent.com/59159355/131294558-52b295a7-de94-42e8-af4f-be0d82cecbe1.gif" width="29px">, I'm AlokKumax!
-- 🔭 I’m currently working on React Node Web Apps.
-- 🌱 currently learning React.JS and React-Native development.
+- 🔭 I’m currently working on JavaScript stacks such as React.js ReactNative next.js Node.js.
+- 🌱 currently learning Next.JS and Backend development.
 - 👨🏻‍💻 Co-founder at SpiderWeb : https://spiderweb.tech
 - Visit my [Digital Card](https://bit.ly/3hNaykL) & [Portfolio Website](https://bit.ly/2XuufGB) here
 -  Native App Development through Kotlin.
