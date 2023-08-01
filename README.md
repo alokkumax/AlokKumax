@@ -3,7 +3,6 @@
 - 🌱 currently learning Next.JS and Backend development.
 - 👨🏻‍💻 Co-founder at SpiderWeb : https://spiderweb.tech
 - Visit my [Digital Card](https://bit.ly/3hNaykL) & [Portfolio Website](https://bit.ly/2XuufGB) here
--  Native App Development through Kotlin.
 - *Download my apps* from [Amazon App Store](https://www.amazon.in/s?rh=n%3A1661666031%2Cp_4%3AAlokKumax)
 - Connect with me on  [LinkedIn](https://www.linkedin.com/in/alok-kumar-987b4b190/) and [Twitter](https://twitter.com/alokkumax)
 - 📱 Mail me at : alokkumax1@gmail.com
